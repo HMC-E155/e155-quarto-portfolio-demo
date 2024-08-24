@@ -1,9 +1,16 @@
 ---
 title: "E155 Portfolio"
+image: images/headshot.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/joshbrake/
+    - icon: github
+      text: Github
+      href: https://github.com/joshbrake
 ---
-
-
-![](/images/headshot.jpeg){style="display: block; margin-left: auto; margin-right: auto;" width=200px}
 
 Josh Brake is an Assistant Professor of Engineering at [Harvey Mudd College](https://hmc.edu).
 Prior to joining the faculty at Harvey Mudd, he completed a Ph.D. and M.S. in Electrical Engineering at the California Institute of Technology and an M.S. and B.S. in Engineering with an Electrical concentration at LeTourneau University. 
