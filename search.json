@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "E155 Blog",
     "section": "",
-    "text": "Hello Quarto\n\n\n\n\n\n\nreflection\n\n\nlabreport\n\n\n\nWelcome to my Quarto portfolio\n\n\n\n\n\nAug 23, 2024\n\n\nJosh Brake\n\n\n\n\n\n\nNo matching items"
+    "text": "Week 1 Reflections\n\n\n\n\n\n\nreflection\n\n\nlabreport\n\n\n\nBuilding my development board and programming in Verilog.\n\n\n\n\n\nAug 26, 2024\n\n\nJosh Brake\n\n\n\n\n\n\n\n\n\n\n\n\nHello Quarto\n\n\n\n\n\n\nreflection\n\n\nlabreport\n\n\n\nWelcome to my Quarto portfolio\n\n\n\n\n\nAug 23, 2024\n\n\nJosh Brake\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/first-post.html",
@@ -12,6 +12,13 @@
     "title": "Hello Quarto",
     "section": "",
     "text": "Testing blog."
+  },
+  {
+    "objectID": "posts/week1-reflections.html#reflections-on-lab",
+    "href": "posts/week1-reflections.html#reflections-on-lab",
+    "title": "Week 1 Reflections",
+    "section": "Reflections on Lab",
+    "text": "Reflections on Lab"
   },
   {
     "objectID": "index.html",
